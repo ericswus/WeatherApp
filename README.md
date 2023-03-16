@@ -16,6 +16,6 @@ weather data and forecast app.
 * show appropriate image depicting each weather
 * show weather forecast for the next 5 days
 
-T
+
 
 
